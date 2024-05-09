@@ -6,6 +6,7 @@ public class SampleCls {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hi This is first project check in to git hub");
+		System.out.println("Hi this is 2nd commmit");
 	}
 
 }
